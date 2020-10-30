@@ -115,4 +115,4 @@ Many of these SIEMs actually use elasticsearch or the entire ELK Stack as their 
 
 - https://databricks.com/glossary/elasticsearch
 
-# Keep check for updated on more guides coming! 
+# More guides Coming Soon! Stay Tuned & Keep Downloding :-)
