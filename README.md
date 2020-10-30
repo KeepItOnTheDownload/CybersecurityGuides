@@ -17,7 +17,7 @@ combines those three products (Elasticsearch-Logstash-Kibana) into a search
 and analytics engine similar to other commercial SIEMs (LogRhythm, Splunk).
 Many of these SIEMs actually use elasticsearch or the entire ELK Stack as their engine. Note that ELK Stack is transitioning to being called Elastic Stack. (SecureSet)
 
-- ## ElasticSearch Main Use Cases
+## ElasticSearch Main Use Cases
     - ElasticSearch can be used for multiple purposes, such as:
         - Logging and Log Analysis:  The ecosystem built up around Elasticsearch has made it one of the easiest to implement and scale logging solutions.
         - Scraping and Combining Public Data: Elasticsearch has the flexibility needed to take in multiple different sources of data and keep it all manageable and searchable.
