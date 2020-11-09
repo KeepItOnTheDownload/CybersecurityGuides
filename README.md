@@ -63,14 +63,15 @@ Many of these SIEMs actually use elasticsearch or the entire ELK Stack as their 
     pub   rsa4096 2017-02-22 [SCEA]
         9DC8 5822 9FC7 DD38 854A  E2D8 8D81 803C 0EBF CD88
     uid           [ unknown] Docker Release (CE deb) <docker@docker.com>
-    sub   rsa4096 2017-02-22 [S]```
+    sub   rsa4096 2017-02-22 [S]
+    ```
 - Use the following command to set up the **stable** repository.
     ```shell
     $ sudo add-apt-repository \
         "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
         $(lsb_release -cs) \
         stable"
-        ```
+       ```
 - Update the apt package index, and install the __latest version__ of Docker Engine and containerd
     ```shell
     $ sudo apt-get update
