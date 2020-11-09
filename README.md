@@ -69,9 +69,8 @@ Many of these SIEMs actually use elasticsearch or the entire ELK Stack as their 
     ```shell
     $ sudo add-apt-repository \
         "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
-        $(lsb_release -cs) \
-        stable"
-       ```
+        $(lsb_release -cs) stable"
+    ```
 - Update the apt package index, and install the __latest version__ of Docker Engine and containerd
     ```shell
     $ sudo apt-get update
@@ -117,4 +116,4 @@ Many of these SIEMs actually use elasticsearch or the entire ELK Stack as their 
 
 - https://databricks.com/glossary/elasticsearch
 
-# More guides Coming Soon! Stay Tuned & Keep Downloding :-)
+# More guides Coming Soon! Stay Tuned & Keep Downloading :-)
